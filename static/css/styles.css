@@ -1,0 +1,11 @@
+.block {
+    border-radius: 8px;
+    transition: box-shadow 0.3s;
+}
+.block.click-highlight {
+    box-shadow: 0 0 0 3px #0078D4 inset;
+}
+.high-contrast .block {
+    background-color: black;
+    color: white;
+}

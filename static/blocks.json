@@ -1,0 +1,8 @@
+[
+    {"name": "Introduction", "content": "Brief introduction text and a profile picture."},
+    {"name": "AboutMe", "content": "Detailed description of skills, experience, and personal details."},
+    {"name": "Projects", "content": "Showcase of featured projects with clickable cards."},
+    {"name": "Skills", "content": "Icons and brief descriptions of core skills."},
+    {"name": "Testimonials", "content": "Feedback from clients or colleagues to enhance credibility."},
+    {"name": "Contact", "content": "Form and social media links for contact."}
+]
